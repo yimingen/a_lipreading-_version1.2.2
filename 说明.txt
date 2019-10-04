@@ -1,0 +1,4 @@
+a_lipreading_version1.2的改变：
+1、将变量用Variable.py批量存储
+
+model_[训练人]_[准确率]_[年月日]_[时刻].h5
